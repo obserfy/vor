@@ -67,7 +67,7 @@
     "react-query": "3.18.1",
     "regenerator-runtime": "0.13.7",
     "snarkdown": "2.0.0",
-    "tailwindcss": "2.1.2",
+    "tailwindcss": "2.2.4",
     "theme-ui": "0.8.4",
     "use-immer": "0.5.2"
   },
