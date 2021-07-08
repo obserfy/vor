@@ -23,6 +23,6 @@ require (
 	go.uber.org/zap v1.16.0
 	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e
 	golang.org/x/tools v0.0.0-20210115202250-e0d201561e39 // indirect
-	gopkg.in/go-playground/validator.v8 v8.18.2
+	gopkg.in/go-playground/validator.v10 v10.7.0
 	gopkg.in/ini.v1 v1.57.0 // indirect
 )
